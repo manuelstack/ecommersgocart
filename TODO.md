@@ -1,0 +1,3 @@
+- [x] Create inngest/client.ts with the Inngest client
+- [x] Create inngest/functions/helloWorld.ts with a sample function
+- [x] Create app/api/inngest/route.ts that imports the client and functions, uses serve with functions array
